@@ -1,0 +1,1 @@
+# nextauth_mongo
